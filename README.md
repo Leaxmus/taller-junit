@@ -3,3 +3,4 @@
 ![](tallerjunit\capturas\findMax.png)
 ![](tallerjunit\capturas\CalculationTest.png)
 ![](tallerjunit\capturas\resultado-test.png)
+## Sección B
