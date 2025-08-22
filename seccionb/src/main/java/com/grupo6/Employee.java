@@ -16,7 +16,7 @@ public class Employee
     private EmployeeType employeeType;    
 
     public Employee(float salary, String currency, 
-        float bonusPercentage, EmployeeType employeeType){
+        float bonusPercentage, EmployeeType employeeType) {
         this.salary = salary;
         this.currency = currency;
         this.bonusPercentage = bonusPercentage;
